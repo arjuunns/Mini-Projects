@@ -8,6 +8,17 @@ body {
 .section {
   margin-bottom: 20px;
 }
+.links-section{
+  margin-left: 1rem;
+}
+.links-title{
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+a{
+  text-decoration: none;
+  color: rgb(23, 88, 192);
+}
 .section-title {
   font-weight: bold;
   border-bottom: 1px solid #000;
