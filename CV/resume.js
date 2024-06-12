@@ -1,7 +1,7 @@
 const button = document.querySelector('.button');
 const body = document.querySelector('body');
 const links = document.querySelectorAll('a');
-let isDarkMode = false;
+let isDarkMode = true;
 
 button.addEventListener('click', function(e) {
     if (isDarkMode) {
