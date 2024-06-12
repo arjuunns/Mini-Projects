@@ -17,7 +17,7 @@ button.addEventListener('click', function(e) {
         });
     } else {
         // Switch to dark mode
-        body.style.backgroundColor = '#212121';
+        body.style.backgroundColor = 'black';
         body.style.color = 'white';
         button.innerHTML = "Switch to Light Mode";
         button.style.backgroundColor = 'white';
