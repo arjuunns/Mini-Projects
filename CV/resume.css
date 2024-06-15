@@ -10,18 +10,18 @@ body {
   width: 800px;
   margin: auto;
 }
-
+ul{
+  margin-right: 4rem;
+}
 .section {
   margin-bottom: 20px;
   margin-top: 1rem;
- margin-top:  1rem;
 }
-
 li{
   margin-top: 0.5rem;
 }
 .links-section {
-  margin-left: 1rem;
+  margin-left: 2.1rem;
 }
 
 .links-title {
